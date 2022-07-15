@@ -71,7 +71,7 @@ const links = [
     text: "Images",
     url: "/Images",
     description:
-      "npm install use-image\nOriginal example: ",
+      "Dependency: npm install use-image\nOriginal example: ",
     original: 'https://konvajs.org/docs/react/Images.html',
     color: "#E95800",
   },
@@ -119,7 +119,7 @@ const links = [
     text: "Complex Animations",
     url: "/Complex_Animations",
     description:
-      "npm install @react-spring/konva --force\nOriginal example: ",
+      "Dependency: npm install @react-spring/konva --force\nOriginal example: ",
     original: 'https://konvajs.org/docs/react/Complex_Animations.html',
     color: "#E95800",
   },
@@ -127,7 +127,7 @@ const links = [
     text: "DOM Portal",
     url: "/DOM_Portal",
     description:
-      "npm install react-konva-utils\nOriginal example: ",
+      "Dependency: npm install react-konva-utils\nOriginal example: ",
     original: 'https://konvajs.org/docs/react/DOM_Portal.html',
     color: "#E95800",
   },
