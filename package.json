@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-react-konva-examples",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gatsby-react-konva-examples",
+  "author": "Rajesh Kumar",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@react-spring/konva": "^9.5.0",
+    "canvas": "^2.9.3",
+    "gatsby": "^4.18.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-konva": "^18.2.1",
+    "react-konva-utils": "^0.3.0",
+    "use-image": "^1.0.12"
+  }
+}
