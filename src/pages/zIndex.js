@@ -4,15 +4,6 @@ import { Stage, Layer, Circle } from 'react-konva';
 
 const isBrowser = typeof window !== "undefined";
 
-function getRandomColor() {
-    var letters = '0123456789ABCDEF';
-    var color = '#';
-    for (var i = 0; i < 6; i++) {
-        color += letters[Math.floor(Math.random() * 16)];
-    }
-    return color;
-}
-
 function generateItems() {
     const items = [];
     for (let i = 0; i < 10; i++) {
