@@ -4,5 +4,4 @@
 </h1>
 
 
-This repository is running at [https://gatsby-react-konva-examples.netlify.app](https://gatsby-react-konva-examples.netlify.app)
-
+A Gatsby adaptation of examples available at [https://konvajs.org/docs/react/](https://konvajs.org/docs/react/)
